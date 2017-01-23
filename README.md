@@ -1,3 +1,4 @@
 # ProutPollution
-Exam  android Wild Code School
-3 première features.
+
+Examen android pour la Wild Code School
+	- 3 première features.
