@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "341209323921",
+    "firebase_url": "https://proutpollution-9eb7d.firebaseio.com",
+    "project_id": "proutpollution-9eb7d",
+    "storage_bucket": "proutpollution-9eb7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341209323921:android:2d118c3fa456c8cf",
+        "android_client_info": {
+          "package_name": "fr.wildcodeschool.apprenti.proutpollution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341209323921-89n4tg1nbpea51psph951p1v95r2o26j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fr.wildcodeschool.apprenti.proutpollution",
+            "certificate_hash": "A6CD91846A8C1E17293E7CB395C9987D0EE0D2B4"
+          }
+        },
+        {
+          "client_id": "341209323921-1hnkt2gnke3o400tbm9l9jr2dqk9bnup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoQnGwAZvfMyf5I8eruh9AhHSkBLpL7Qw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341209323921-1hnkt2gnke3o400tbm9l9jr2dqk9bnup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
